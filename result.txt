@@ -27,3 +27,8 @@ SE = 9.834234059422885
 POOR = 25
 Prediction = 1005.585474509277
 SE = 20.409210396592396
+
+
+-------------------------------
+
+P.S. I was not sure what value of (k) should be used, as I could not find a specific value in the assignment instructions. I therefore used (k=10) and also included the results for (k=60), which corresponds to a global linear regression, in the results file. If this is not the intended choice of (k), please let me know.
