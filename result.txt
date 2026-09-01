@@ -11,3 +11,9 @@ SE = 9.910126603542718
 POOR = 25
 Prediction = 1006.2922957280789
 SE = 20.66983993471756
+
+
+P.S. I used a function with a matrix in the calculation because writing a linear regression formula for a univariate variable is just too simple... However, for the assignment requirements, I added a simplified function from the repository.
+
+
+also a note: I used an unweighted local regression in this exercise. I would also be interested in learning about different weighting methods, so I would appreciate it if you could recommend a book or other reference covering this topic.
