@@ -14,7 +14,7 @@ data = pd.read_csv("pollution_cleaneddata.csv")
 x = data["POOR"].values
 y = data["MORT"].values
 
-k = 60
+k = 10
 x_0 = [10, 18, 25]
 
 pred, se = local_regression(y, x, k, x_0)
