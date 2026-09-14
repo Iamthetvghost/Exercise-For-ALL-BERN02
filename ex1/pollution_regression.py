@@ -7,7 +7,7 @@ Created on Tue Sep  18:09:07 2026
 
 import numpy as np
 import pandas as pd
-from function_local_regression import local_regression
+from function_local_regression_tricube import local_regression
 
 
 data = pd.read_csv("pollution_cleaneddata.csv")
